@@ -1,16 +1,16 @@
 {
-  "version": "1.0",
+  "version": "1.2",
   "skills": [
     {
-  "id": "hermes-memory-four-tier", 
-  "name": "Hermes Agent 四层存储体系",
-  "description": "memory、user profile、skills、session_search 各自存什么不存什么，省空间、防污染、跨会话可追溯。",
-  "author": "lovesmile",
-  "repo": "https://github.com/lovesmile/hermes-skills-registry.git", 
-  "path": "hermes-memory-four-tier",
-  "category": "System", 
-  "icon": "memory"
-   },
+      "id": "hermes-memory-four-tier",
+      "name": "Hermes Agent 四层存储体系",
+      "description": "系统级存储优化：管理 memory、user profile、skills、session_search，省空间、防污染、跨会话可追溯。",
+      "author": "lovesmile811",
+      "repo": "https://github.com/lovesmile/hermes-skills-registry.git",
+      "path": "hermes-memory-four-tier",
+      "category": "System",
+      "icon": "memory"
+    },
     {
       "id": "web-search",
       "name": "全网实时搜索",
