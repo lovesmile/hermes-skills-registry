@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "skills": [
+    {
+      "id": "wechat-bot",
+      "name": "微信智能管家",
+      "description": "基于 iLink Bot 协议，让 Hermes 托管你的个人微信，支持自动回复。",
+      "author": "lovesmile",
+      "repo": "https://github.com/lovesmile/hermes-skill-wechat",
+      "category": "Social",
+      "icon": "wechat"
+    },
+    {
+      "id": "crypto-tool",
+      "name": "加密货币助手",
+      "description": "实时行情监控，支持主流交易所价格查询。",
+      "author": "hermes-dev",
+      "repo": "https://github.com/hermes-agent/skill-crypto",
+      "category": "Finance",
+      "icon": "currency_bitcoin"
+    }
+  ]
+}
