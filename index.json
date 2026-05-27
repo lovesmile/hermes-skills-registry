@@ -18,6 +18,15 @@
       "repo": "https://github.com/hermes-agent/skill-crypto",
       "category": "Finance",
       "icon": "currency_bitcoin"
+    },
+    {
+      "id": "ermes-memory-four-tier",
+      "name": "Hermes Agent 四层存储体系",
+      "description": "memory、user profile、skills、session_search 各自存什么不存什么，省空间、防污染、跨会话可追溯。",
+      "author": "lovesmile811",
+      "repo": "https://github.com/lovesmile/hermes-skills-registry/tree/main/hermes-memory-four-tier",
+      "category": "Finance",
+      "icon": "currency_bitcoin"
     }
   ]
 }
