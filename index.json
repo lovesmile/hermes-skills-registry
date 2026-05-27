@@ -10,6 +10,69 @@
   "path": "hermes-memory-four-tier",
   "category": "System", 
   "icon": "memory"
-   }
+   },
+    {
+      "id": "web-search",
+      "name": "全网实时搜索",
+      "description": "接入 Tavily 与 Google 搜索 API，让 Hermes 能够实时获取互联网最新信息、新闻及学术资料。",
+      "author": "hermes-official",
+      "repo": "https://github.com/hermes-agent/skill-web-search.git",
+      "category": "Search",
+      "icon": "public"
+    },
+    {
+      "id": "python-interpreter",
+      "name": "Python 代码解释器",
+      "description": "在安全的沙盒中运行 Python 代码。支持执行复杂计算、数据分析、绘制图表及处理本地数据文件。",
+      "author": "hermes-official",
+      "repo": "https://github.com/hermes-agent/skill-python-interpreter.git",
+      "category": "Programming",
+      "icon": "code"
+    },
+    {
+      "id": "shell-executor",
+      "name": "系统终端执行器",
+      "description": "允许 Hermes 访问本地 Shell。支持执行 Bash 命令、管理系统进程及自动化处理运维任务。",
+      "author": "hermes-dev",
+      "repo": "https://github.com/hermes-agent/skill-shell-executor.git",
+      "category": "System",
+      "icon": "terminal"
+    },
+    {
+      "id": "youtube-summarizer",
+      "name": "YouTube 视频助手",
+      "description": "自动抓取 YouTube 视频字幕并进行深度总结。支持跨语言翻译，让你在几秒钟内掌握视频核心内容。",
+      "author": "hermes-community",
+      "repo": "https://github.com/hermes-community/skill-youtube-summarizer.git",
+      "category": "Media",
+      "icon": "play_circle"
+    },
+    {
+      "id": "github-helper",
+      "name": "GitHub 深度助理",
+      "description": "管理你的 GitHub 仓库：搜索 Repo、读取 Issue 详情、总结 README 并协助提交 PR。",
+      "author": "hermes-dev",
+      "repo": "https://github.com/hermes-agent/skill-github-helper.git",
+      "category": "Developer",
+      "icon": "source"
+    },
+    {
+      "id": "arxiv-search",
+      "name": "Arxiv 学术助手",
+      "description": "精准搜索并解析 Arxiv 上的最新科研论文。支持 PDF 内容总结及指定领域的前沿动态追踪。",
+      "author": "hermes-official",
+      "repo": "https://github.com/hermes-agent/skill-arxiv.git",
+      "category": "Science",
+      "icon": "school"
+    },
+    {
+      "id": "file-operator",
+      "name": "本地文件全能王",
+      "description": "赋予 Hermes 读写本地文件的能力。支持 PDF 解析、Word/Excel 转换及大批量文件的重命名与归档。",
+      "author": "hermes-community",
+      "repo": "https://github.com/hermes-community/skill-file-operator.git",
+      "category": "Productivity",
+      "icon": "folder_shared"
+    }
   ]
 }
