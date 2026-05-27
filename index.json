@@ -5,7 +5,7 @@
   "id": "hermes-memory-four-tier", 
   "name": "Hermes Agent 四层存储体系",
   "description": "memory、user profile、skills、session_search 各自存什么不存什么，省空间、防污染、跨会话可追溯。",
-  "author": "lovesmile811",
+  "author": "lovesmile",
   "repo": "https://github.com/lovesmile/hermes-skills-registry.git", 
   "path": "hermes-memory-four-tier",
   "category": "System", 
